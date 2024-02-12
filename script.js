@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "Gracias por aceptar Corazooonn de Meloon, te quiero mucho :3";
+  titleElement.innerHTML = "Gracias por aceptar esta invitacion, favor de enviar su ubicacion para pasar por usted";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
